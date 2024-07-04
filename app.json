@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "password_generator",
+    "slug": "password_generator",
+    "version": "1.0.0"
+  },
+  "name": "password_generator"
+}
